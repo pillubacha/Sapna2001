@@ -40,20 +40,14 @@
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/logos:mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="C#" width="40" height="40"/> </a> 
+  
+  
+  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapna2001&show_icons=true&locale=en&layout=compact" alt="sapna2001" /></p></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pillubacha &show_icons=true&locale=en&layout=compact" alt="pillubacha" /></p></br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapna2001&show_icons=true&locale=en" alt="sapna2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pillubacha &show_icons=true&locale=en" alt="pillubacha" /></p>
 
 
 
